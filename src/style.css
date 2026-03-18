@@ -4,7 +4,7 @@
 
 body {
     margin: 0;
-    background-color: #0B2434;
+    background-color: #2a658a;
     padding: 20px;
     height: 100vh;
     display: flex;
@@ -21,7 +21,7 @@ div#root{
 
 main{
     padding: 20px;
-    background-color: #F5F5F5;
+    background-color: #d6e4fa;
     border-radius: 8px;
     height: 100%;
     display: flex;
@@ -32,6 +32,10 @@ main{
 .title{
     font-size: 40px;
     margin: 0;
+    background-color: #2a658a;
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: white;
 }
 .instructions{
     margin: 20px;
